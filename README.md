@@ -1,4 +1,4 @@
-🚀 Portfolio de Emilio Blanco – Proyectos y Habilidades
+# **🚀 Portfolio de Emilio Blanco – Proyectos y Habilidades**
 
 Bienvenido a mi portfolio personal. En este repositorio encontrarás una selección de mis proyectos, habilidades y experiencia como desarrollador web. Mi objetivo es mostrar mi capacidad para crear aplicaciones web modernas, responsivas y funcionales, y compartir algunos de los proyectos con los que he trabajado a lo largo de mi carrera.
 
